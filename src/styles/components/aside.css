@@ -1,0 +1,26 @@
+.c-aside__card {
+  display: flex;
+  gap: 1.6rem;
+  margin-bottom: 1.6rem;
+}
+
+.c-aside__text h3 {
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+}
+
+.c-aside__text p {
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  color: #515151;
+}
+.c-aside__text span {
+  display: block;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  color: #515151;
+  margin: 0.8rem 0;
+}

@@ -1,0 +1,74 @@
+.c-main iframe {
+  width: 100%;
+  height: 50rem;
+}
+
+.c-main__title {
+  margin: 1.6rem 0;
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 2.3rem;
+}
+
+.c-main__actions {
+  display: flex;
+  gap: 4.2rem;
+  align-items: center;
+}
+
+.c-main__channel-name {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+}
+
+.c-main__subscribe {
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+  text-transform: uppercase;
+  height: 4rem;
+  width: 16rem;
+  color: #ffffff;
+  background-color: #cc0000;
+  cursor: pointer;
+}
+
+.c-main__channel-name span {
+  color: #515151;
+}
+
+.c-main__icon-button {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  white-space: nowrap;
+}
+
+.c-main__icon-button span {
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+}
+
+.c-main__views {
+  margin: 1.6rem 0;
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+}
+
+.c-main__description {
+  max-width: 52rem;
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+  color: #515151;
+}
+
+.c-main__right {
+  flex: 1;
+}
